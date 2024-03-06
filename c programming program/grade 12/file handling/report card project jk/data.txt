@@ -1,0 +1,49 @@
+
+***************************
+Student Result
+
+Student Roll : 1
+Student Name : Ambir
+Marks in each subject
+
+English : 65
+Nepali : 72
+Mathematics : 83
+Physics : 44
+Chemistry : 64
+Computer : 54
+Percentage : 63.67
+Total : 382
+Result : B
+***************************
+Student Result
+
+Student Roll : 2
+Student Name : Amit
+Marks in each subject
+
+English : 77
+Nepali : 68
+Mathematics : 55
+Physics : 78
+Chemistry : 67
+Computer : 66
+Percentage : 68.50
+Total : 411
+Result : B
+***************************
+Student Result
+
+Student Roll : 8
+Student Name : Jenish
+Marks in each subject
+
+English : 87
+Nepali : 91
+Mathematics : 92
+Physics : 71
+Chemistry : 54
+Computer : 93
+Percentage : 81.33
+Total : 488
+Result : A
